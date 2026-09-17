@@ -16,11 +16,6 @@ Thanks for taking the time to look through my work!
 - **Languages:** SQL, Python, KNIME, Power BI, Excel
 - **Databases / Data warehouses:** Snowflake, MySQL
 - **Currently building with:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-
-### 📬 Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/nicolascrifasi)
-
 <!--
 **nicolascrifasi1603/nicolascrifasi1603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
