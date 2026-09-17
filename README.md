@@ -10,7 +10,7 @@ This portfolio showcases projects I've worked on since returning from travelling
 
 I'm exploring opportunities across data analytics, data science, and data consulting, where I can combine my experience delivering client-focused solutions with my growing technical capabilities.
 
-Thanks for taking the time to look through my work!
+Thanks for taking the time to look through my projects which are pinned below!
 ### 🛠️ Tools
 
 - **Languages:** SQL, Python, KNIME, Power BI, Excel
