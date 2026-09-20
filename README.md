@@ -2,7 +2,7 @@
 
 After two years in Management Consulting, I left my job to travel around Southeast Asia for five months and pursue a career in data.
 
-In my previous role, I built data analytics solutions for clients using KNIME, Power BI, and Excel. Working in a small consulting firm with a growing data practice gave me the opportunity to contribute across the full lifecycle of data projects - from scoping and gathering requirements to data preparation, solution development, and governance.
+In my previous role, I built and implemented data analytics solutions for clients in industries ranging from Financial Services to the 3rd sector. Working in a small consulting firm with a growing data practice gave me the opportunity to contribute across the full lifecycle of data projects - from scoping and gathering requirements to data preparation, solution development, and governance.
 
 This experience sparked my interest in the broader potential of data, and I'm now expanding my technical skillset through hands-on projects in SQL and Python, with a particular focus on predictive modelling and machine learning.
 
