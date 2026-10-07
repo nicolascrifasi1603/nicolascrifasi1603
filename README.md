@@ -6,7 +6,7 @@ In my previous role, I built and implemented data analytics solutions for client
 
 This experience sparked my interest in the broader potential of data, and I'm now expanding my technical skillset through hands-on projects in SQL and Python, with a particular focus on predictive modelling and machine learning.
 
-This portfolio showcases projects I've worked on since returning from travelling, as I develop my ability to solve increasingly complex analytical and business problems. I'm particularly interested in how machine learning can be applied to real-world challenges to uncover insights, support better decision-making, and anticipate future outcomes.
+This portfolio showcases projects I've worked on since returning from travelling, as I develop my ability to solve more complex analytical and business problems. I'm particularly interested in how machine learning can be applied to real-world challenges to uncover insights, support better decision-making, and anticipate future outcomes.
 
 I'm exploring opportunities across data analytics, data science, and data consulting, where I can combine my experience delivering client-focused solutions with my growing technical capabilities.
 
